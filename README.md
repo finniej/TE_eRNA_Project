@@ -1,5 +1,5 @@
 # TE_eRNA_Project
-Scripts originally used on the Graham server of the Compute Canada High Performance Computing Cluster.
+Scripts originally used on the Graham server of the Compute Canada High Performance Computing Cluster. Update all directories prior to use.
 
 Scripts Included:
 1. STAR Idex
