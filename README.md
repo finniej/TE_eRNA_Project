@@ -4,8 +4,8 @@ Scripts originally used on the Graham server of the Compute Canada High Performa
 Scripts Included:
 1. STAR Idex
 2. STAR Alignment
-   a. Gene-Aware (for use with TEtranscripts/StringTie)
-   b. Locus-Level (for use with Telescope)
+- Gene-Aware (for use with TEtranscripts/StringTie)
+- Locus-Level (for use with Telescope)
 3. TEtranscripts
 4. Telescope
 5. StringTie
